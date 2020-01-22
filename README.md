@@ -8,3 +8,11 @@ Repositório criado para facilitar o compartilhamento dos códigos utilizados no
 [lista extra](http://joaoventura.net/static/files/python_exercises_book.pdf)
 
 [Exercícios Funções](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
+
+[Exercícios Numpy](https://www.w3resource.com/python-exercises/numpy/index.php)
+
+[Exercícios Pandas 1](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+
+[Exercícios Pandas 2](https://www.w3resource.com/python-exercises/pandas/index.php)
+
+[Exercícios Matplotlib](https://www.w3resource.com/graphics/matplotlib/)
