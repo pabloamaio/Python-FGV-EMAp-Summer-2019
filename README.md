@@ -16,3 +16,5 @@ Repositório criado para facilitar o compartilhamento dos códigos utilizados no
 [Exercícios Pandas 2](https://www.w3resource.com/python-exercises/pandas/index.php)
 
 [Exercícios Matplotlib](https://www.w3resource.com/graphics/matplotlib/)
+
+[Linear Algebra with Python](https://python.quantecon.org/linear_algebra.html)
